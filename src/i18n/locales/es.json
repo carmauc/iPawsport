@@ -1,0 +1,39 @@
+{
+	"nav": {
+		"home": "Inicio",
+		"services": "Servicios",
+		"information": "Información",
+		"travelGuide": "Guía de viaje",
+		"requirements": "Requisitos",
+		"faq": "Preguntas frecuentes",
+		"contact": "Contacto",
+		"openMenu": "Abrir menú",
+		"closeMenu": "Cerrar menú",
+		"language": "Idioma",
+		"selectLanguage": "Seleccionar idioma",
+		"logoAlt": "Logotipo de iPawsport",
+		"phone": "672 363 701"
+	},
+	"common": {
+		"historyNote": "Nota:",
+		"cookies": {
+			"title": "Tu privacidad importa",
+			"description": "Usamos almacenamiento local para recordar tus preferencias. Puedes aceptar, rechazar o configurar las categorías opcionales.",
+			"policyLink": "Consulta la política de cookies",
+			"acceptAll": "Permitir todas",
+			"necessaryOnly": "Denegar opcionales",
+			"deny": "Denegar",
+			"settings": "Configurar preferencias",
+			"preferencesNote": "Las categorías opcionales no se activan en la web actual. Tu selección quedará guardada para respetar tus preferencias.",
+			"necessary": "Necesarias",
+			"necessaryDescription": "Permiten guardar tus preferencias básicas, como el idioma y esta decisión.",
+			"alwaysActive": "Siempre activas",
+			"analytics": "Analíticas",
+			"analyticsDescription": "Ayudan a medir el uso del sitio. Actualmente no hay herramientas analíticas instaladas.",
+			"marketing": "Marketing",
+			"marketingDescription": "Se usarían para personalizar publicidad. Actualmente no hay herramientas publicitarias instaladas.",
+			"saveSelection": "Guardar mi selección",
+			"saveError": "No se pudieron guardar tus preferencias. Revisa la configuración de almacenamiento de tu navegador e inténtalo de nuevo."
+		}
+	}
+}

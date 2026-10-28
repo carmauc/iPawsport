@@ -21,7 +21,7 @@ Sitio web de iPawsport, un servicio de información, documentación y asesoramie
 Clona el repositorio y entra en la carpeta del proyecto:
 
 ```bash
-git clone https://github.com/carmauc/ipawsport.git
+git clone https://github.com/carmauc/iPawsport.git
 cd ipawsport
 ```
 "# iPawsport" 
